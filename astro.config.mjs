@@ -7,7 +7,7 @@ export default defineConfig({
     integrations: [
         starlight({
             title: 'NZ Private Sale Guide',
-            social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/your-username/your-repo' }],
+            social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
             sidebar: [
                 {
                     label: 'Getting Started',
@@ -18,6 +18,7 @@ export default defineConfig({
                 {
                     label: '1. Preparation',
                     items: [
+                        { label: 'Initial Legal Setup & Disclosures', link: '/preparation/legal-prep' },
                         { label: 'Pricing Your Home', link: '/preparation/pricing' },
                         { label: 'Presentation & Staging', link: '/preparation/presentation' },
                     ],
@@ -25,7 +26,7 @@ export default defineConfig({
                 {
                     label: '2. Legal & Paperwork',
                     items: [
-                        { label: 'The Sale Agreement', link: '/legal/sale-agreement' },
+                        { label: 'The Sale Agreement Sections', link: '/legal/sale-agreement' },
                     ],
                 },
             ],

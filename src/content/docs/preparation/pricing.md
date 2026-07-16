@@ -42,34 +42,38 @@ Create a simple spreadsheet comparing their land size, floor area, overall condi
 
 Let's look at a realistic financial comparison for a **\$1,000,000 NZD** home sale. Real estate agents typically charge a tiered commission (e.g., 3% on the first \$400k, 2% on the remainder plus GST) alongside substantial corporate marketing markups. 
 
-As a private seller, you pay **\$0** in commission, meaning you can easily invest in professional photography to ensure your listing looks top-tier.
+As a private seller, you pay **\$0** in commission. While you must cover high-quality professional real estate photography out of pocket to make your listing look competitive, the savings remain massive.
 
 | Expenses & Net Return | Traditional Agent Sale | Your Private Sale |
 | :--- | :--- | :--- |
 | **Target Market Sale Price** | \$1,000,000 | \$1,000,000 |
-| **Agent Commission (incl. GST)** | -\$27,600 *()* | \$0 *(Saved!)* |
-| **Trade Me Marketing Pack** | -\$2,500 *(Marked up)* | -\$1,599 *(Direct DIY Silver)* |
+| **Agent Commission (incl. GST)** | -\$27,600 | \$0 *(Saved!)* |
+| **Trade Me Marketing Pack** | -\$2,500 *(Marked up)* | -\$1,599 *(Direct DIY Premium)* |
 | **Professional Photography** | Included in agent fees | -\$450 *(Local pro + floor plan)* |
 | **Legal/Conveyancing Fees** | -\$1,500 | -\$1,800 *(Slightly higher for private sale)* |
 | **Net Cash in Your Pocket** | **\$968,400** | **\$996,151** |
 
-**The Strategy:** Even after paying out-of-pocket for brilliant professional photos and high-visibility listing packages, you walk away with an extra **\$27,751** in net profit. You can choose to pass a fraction of this onto the buyer via a sharper asking price to create a fast, competitive bidding environment.
+**The Strategy:** Even after paying for top-tier professional photos and high-visibility listing packages out of pocket, you walk away with an extra **\$27,751** in net profit. You can choose to pass a fraction of this onto the buyer via a sharper asking price to create a fast, competitive bidding environment.
 
 ---
 
 ## Step 4: Choose Your Pricing Strategy
 
-When you list on Trade Me, you must choose how to display the price. In New Zealand, three methods work best for private sellers:
+When you list on Trade Me, you must choose how to market the price. In New Zealand, four methods work best for private sellers:
 
-### 1. "Enquiries Over \$X" (Recommended)
+### 1. Deadline Sale ("Unless Sold Prior")
+Market the home with a set closing date (e.g., 3 weeks out) but **no advertised price**. Buyers must submit written offers on a Sale & Purchase Agreement by that date. 
+* **Why it works:** It forces a sense of urgency on buyers without the stress of an auction room. Crucially, the "Unless Sold Prior" tag means if a buyer brings you a fantastic offer on day 4, you can legally accept it on the spot and end the campaign early.
+
+### 2. "Enquiries Over \$X"
 Set the baseline price roughly 5% below your target number. If you want \$850,000, list it as *"Enquiries Over \$809,000"*. This pulls your house into lower search filter brackets, driving massive foot traffic to your first weekend open homes.
 
-### 2. Fixed BEO (Buyer Enquiry Over)
+### 3. Fixed BEO (Buyer Enquiry Over)
 A firm, clear baseline price. Tell the market exactly what the minimum acceptable starting point is to screen out bargain hunters early.
 
-### 3. By Negotiation
+### 4. By Negotiation
 Best if your property is truly unique or luxury, making it hard to find local comparable sales data. 
 
 <Aside type="danger" title="Avoid Tenders or Auctions">
-  As a private seller, avoid running an Auction or a formal Tender process unless you are hiring a professional independent auctioneer. Buyers are already slightly hesitant about private sales; adding the high-stress legal pressure of an auction room without an agent mediating usually scares them away.
+  As a private seller, avoid running a standard Auction or a formal sealed Tender process. Buyers are already slightly hesitant about private sales; adding the intense, high-stress legal constraints of an auction room without an agent acting as a buffer usually scares them away. Stick to a Deadline Sale if you want urgency.
 </Aside>

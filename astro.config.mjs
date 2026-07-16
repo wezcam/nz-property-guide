@@ -16,11 +16,12 @@ export default defineConfig({
                     ],
                 },
                 {
-                    label: '1. Preparation',
+                    label: '1. Preparation & Marketing',
                     items: [
                         { label: 'Initial Legal Setup & Disclosures', link: '/preparation/legal-prep' },
                         { label: 'Pricing Your Home', link: '/preparation/pricing' },
                         { label: 'Presentation & Staging', link: '/preparation/presentation' },
+                        { label: 'Trade Me & Open Homes', link: '/preparation/trademe' },
                     ],
                 },
                 {

@@ -8,10 +8,6 @@ export default defineConfig({
   integrations: [
     starlight({
       title: 'NZ Private Sale Guide',
-      social: {
-        // You can add your GitHub repo here if it's public, or remove this line
-        github: 'https://github.com/withastro/starlight',
-      },
       sidebar: [
         {
           label: 'Getting Started',

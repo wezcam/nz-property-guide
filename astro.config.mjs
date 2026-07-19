@@ -8,9 +8,6 @@ export default defineConfig({
   integrations: [
     starlight({
       title: 'NZ Private Sale Guide',
-      customCss: [
-        './src/styles/custom.css',
-      ],
       // Inject the Google AdSense code globally
       head: [
         {

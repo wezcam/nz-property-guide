@@ -8,6 +8,20 @@ export default defineConfig({
   integrations: [
     starlight({
       title: 'NZ Private Sale Guide',
+      customCss: [
+        './src/styles/custom.css',
+      ],
+      // Inject the Google AdSense code globally
+      head: [
+        {
+          tag: 'script',
+          attrs: {
+            src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8528347282216803',
+            async: true,
+            crossorigin: 'anonymous',
+          },
+        },
+      ],
       sidebar: [
         {
           label: 'Getting Started',
